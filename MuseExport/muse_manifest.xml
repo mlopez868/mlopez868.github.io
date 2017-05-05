@@ -1,0 +1,24 @@
+<manifest alg="2" build="2017.0.2.363" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="Burnetcapital.com" resolutions="1x" timestamp="1494015147053">
+  <folder name="css">
+    <file name="site_global.css" crc="3885363176"/>
+    <file name="master_a-master.css" crc="3893535484" ref="index"/>
+    <file name="index.css" crc="4002042213" ref="index"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index"/>
+    <file name="museutils.js" crc="4232573551" ref="index"/>
+    <file name="whatinput.js" crc="86476730" ref="index"/>
+    <file name="museconfig.js" crc="4152223963" ref="index"/>
+    <file name="jquery.watch.js" crc="3844535323" ref="index"/>
+    <file name="require.js" crc="4234670167" ref="index"/>
+  </folder>
+  <folder name="images">
+    <file name="pexels-photo-131723.jpg" crc="37846728" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="u427-4.png" crc="4094385645" ref="index"/>
+    <file name="u443-4.png" crc="498750043" ref="index"/>
+    <file name="u447-4.png" crc="4126763121" ref="index"/>
+  </folder>
+  <file name="index.html" crc="33582587" seo="true" mt="1494015062465" redirect="true"/>
+</manifest>
